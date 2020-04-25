@@ -1,5 +1,9 @@
+// Core
 @import "~bootstrap/scss/bootstrap";
 @import "~bootstrap/scss/utilities";
+
+// Font Awesome
+@import "~font-awesome/css/font-awesome.css";
 
 /*!
 * Start Bootstrap - Agency v6.0.0 (https://startbootstrap.com/template-overviews/agency)
@@ -2415,6 +2419,13 @@ textarea.form-control {
   .form-inline .custom-control-label {
     margin-bottom: 0;
   }
+}
+
+.btn-tell-me-more {
+    border-radius: 12px !important;
+    -webkit-box-shadow: 10px 10px 23px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 23px 0px rgba(0,0,0,0.75);
+    box-shadow: 19px 10px 23px 0px rgba(0,0,0,0.75);
 }
 
 .btn {
