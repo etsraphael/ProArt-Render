@@ -1,0 +1,9 @@
+.container-page-1::before {
+    content: '';
+    position: absolute;
+    position: 0;
+    top: 0;
+    left: 0;
+    right: 0;
+    background: red;
+}
