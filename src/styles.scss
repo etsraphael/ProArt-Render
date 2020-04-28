@@ -2422,7 +2422,7 @@ textarea.form-control {
 }
 
 .btn-tell-me-more {
-    border-radius: 12px !important;
+    border-radius: 7px !important;
     -webkit-box-shadow: 10px 10px 23px 0px rgba(0,0,0,0.75);
     -moz-box-shadow: 10px 10px 23px 0px rgba(0,0,0,0.75);
     box-shadow: 19px 10px 23px 0px rgba(0,0,0,0.75);
@@ -10405,6 +10405,7 @@ header.masthead .masthead-heading {
   width: 14rem;
   height: 14rem;
   border: 0.5rem solid rgba(0, 0, 0, 0.1);
+  object-fit: cover;
 }
 .team-member h4 {
   margin-top: 1.5rem;
